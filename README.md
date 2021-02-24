@@ -1,3 +1,7 @@
+#Concept Rudux
+- store => store value // stroe state
+- reducers => action menage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
